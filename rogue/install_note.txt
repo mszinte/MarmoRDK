@@ -1,0 +1,2 @@
+On a new pc you might have to install CDM212364_Setup.exe to see the COM port of the rogue chair activated.*
+You next have to adjust the COM port name used in Matlab (e.g. 'COM5') by launching the portc checking command of each parts in Matlab.
